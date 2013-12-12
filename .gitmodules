@@ -1,0 +1,24 @@
+[submodule "modules/wordpress"]
+	path = modules/wordpress
+	url = https://github.com/ordenull/ordenull-puppet-wordpress.git
+[submodule "modules/mysql"]
+	path = modules/mysql
+	url = https://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "modules/apache"]
+	path = modules/apache
+	url = https://github.com/puppetlabs/puppetlabs-apache.git
+[submodule "modules/datadog"]
+	path = modules/datadog
+	url = https://github.com/ordenull/puppet-datadog-agent.git
+[submodule "modules/concat"]
+	path = modules/concat
+	url = https://github.com/puppetlabs/puppetlabs-concat.git
+[submodule "modules/hostkey"]
+	path = modules/hostkey
+	url = https://github.com/ordenull/ordenull-puppet-hostkey.git
+[submodule "modules/php"]
+	path = modules/php
+	url = https://github.com/thias/puppet-php.git
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
